@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:d:\projetos\alura\linguagemc\01.fundamentosdalinguagem\02.cavancandonalinguagem\programa\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1676322424 source:d:\projetos\alura\linguagemc\01.fundamentosdalinguagem\02.cavancandonalinguagem\programa\forca.c
+	<stdio.h>
+	<string.h>
+

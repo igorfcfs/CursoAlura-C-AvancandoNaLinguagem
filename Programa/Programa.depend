@@ -3,7 +3,12 @@
 	<stdio.h>
 	<stdlib.h>
 
-1676327664 source:d:\projetos\alura\linguagemc\01.fundamentosdalinguagem\02.cavancandonalinguagem\programa\forca.c
+1676330927 source:d:\projetos\alura\linguagemc\01.fundamentosdalinguagem\02.cavancandonalinguagem\programa\forca.c
 	<stdio.h>
 	<string.h>
+	<stdlib.h>
+	<time.h>
+	"forca.h"
+
+1676330506 d:\projetos\alura\linguagemc\01.fundamentosdalinguagem\02.cavancandonalinguagem\programa\forca.h
 
